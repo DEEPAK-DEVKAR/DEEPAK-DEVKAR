@@ -1,10 +1,18 @@
 - 👋 Hello, I’m @DEEPAK-DEVKAR
-- 👀 I’m interested in learning new things in technology viz. scalling application, distributed system, containerization, blockchain,big data etc.
+- 👀 I’m interested in learning new things in technology viz. scaling application, distributed system, containerization, blockchain,big data etc.
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on github, Leetcode
-- 📫 How to reach me https://github.com/DEEPAK-DEVKAR
+- 📫 How to reach me https://www.linkedin.com/in/deepak-devkar-b3997871
 - 🔭 I’m currently working on highly Distribiuted system.
 - 😄 Pronouns: He/His
+
+Languages and Tools:
+ 
+ - Java 8, Spring Boot, Camel, Spring Cloud, Spring, Hibernate
+ - Microservices, Distributed System, AWS
+ - Kafka, RabbitMQ, JMS
+ - SQL(Oracle,Postgres),NOSQL(MongoDB)
+ - Agile, Scrum
 
 
 <!---
