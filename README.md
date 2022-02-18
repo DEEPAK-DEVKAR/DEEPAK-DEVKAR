@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src=https://github.com/DEEPAK-DEVKAR/DEEPAK-DEVKAR/blob/main/Technocrat.png" alt="my banner"></a>
+  <img src=https://github.com/DEEPAK-DEVKAR/DEEPAK-DEVKAR/blob/main/Technocrat.png>
 </p>
 
 - 👋 Hello, I’m @DEEPAK-DEVKAR
